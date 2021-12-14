@@ -12,4 +12,10 @@ int main() {
 			printf("%d\n", i);
 			i++;
 	}
+	puts("");
+	i = 0;
+	do {
+	printf("%d\n", i);
+			i++;	
+	} while(i < 20);
 }
